@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("GUFRAN", "Inside on create ");
+        System.out.println("Added Second Line ");
     }
 
 
